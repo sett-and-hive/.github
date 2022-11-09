@@ -3,7 +3,7 @@
 
 ## 🙋‍♀️ A short introduction 
 
-- some public projects by Tom Willis and others.
+- some public projects by Tom Willis and others. Let me know if you are interested in collaboration.
 
 ## 🌈 Contribution guidelines 
 
